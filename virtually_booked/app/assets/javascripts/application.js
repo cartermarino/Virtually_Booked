@@ -14,5 +14,5 @@
 //= require bootstrap-sprockets
 //= require jquery_ujs
 //= require toastr
-//= require turbolinks
+// Removed turbolinks because it was holding to the previous State.
 //= require_tree .
