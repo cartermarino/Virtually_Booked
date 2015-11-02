@@ -1,27 +1,16 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Virtually Booked. This is a play on the AirBnB Design and feel, but it has some elements that will make this version a bit more independent from AirBnB's services. The main focus of what it was trying to implement was the use of Street View Indoor to view listings.
 
 Things you may want to cover:
 
-* Ruby version
+* GEMS: Toastr, Devise, Paperclip, Geocoder, Omiauth
 
-* System dependencies
+* Database Schema and Initialization.
 
-* Configuration
+* Google Maps Embed and Street View API
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Bootstrap SASS stylization.
 
 
 Please feel free to use a different markup language if you do not plan to run
